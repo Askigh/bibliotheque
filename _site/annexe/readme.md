@@ -8,3 +8,4 @@
     * Ici vous aurez les informations nécessaires à l'installation de votre environnement de travail local
 * [Structure type d'un cours](structure-cours.html)
     * Vous retrouvez ici toutes les informations minimales à la réalisation d'un cours
+
