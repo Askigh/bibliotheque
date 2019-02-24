@@ -14,6 +14,8 @@ Bienvenue sur NoNameIdeas, le projet open-source pour se former sur l'informatiq
     * MacOS : _Le fameux système d'exploitation de la Pomme_
     * Windows : _Bill Gates l'utilise pour son développement logiciel personnel_
 
+Et voici ci-dessous la [liste des contributeurs](annexe/contributeurs.html) avec le profil github associé, le projet tourne grâce à eux
+
 ### License
 
 MIT
