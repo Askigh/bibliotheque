@@ -12,15 +12,15 @@
     <![endif]-->
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Système | bibliotheque</title>
+<title>Environnement de travail en local | bibliotheque</title>
 <meta name="generator" content="Jekyll v3.7.4" />
-<meta property="og:title" content="Système" />
+<meta property="og:title" content="Environnement de travail en local" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/systeme/" />
-<meta property="og:url" content="http://localhost:4000/systeme/" />
+<link rel="canonical" href="http://localhost:4000/annexe/environnement.html" />
+<meta property="og:url" content="http://localhost:4000/annexe/environnement.html" />
 <meta property="og:site_name" content="bibliotheque" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/systeme/","headline":"Système","@type":"WebPage","@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/annexe/environnement.html","headline":"Environnement de travail en local","@type":"WebPage","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -42,7 +42,37 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          <h1 id="système">Système</h1>
+          <h1 id="environnement-de-travail-en-local">Environnement de travail en local</h1>
+
+<h2 id="voici-les-prérequis-pour-travailler-sur-le-site-en-local">Voici les prérequis pour travailler sur le site en local</h2>
+
+<ol>
+  <li>Avoir Ruby installé sur votre machine. Si ce n’est pas le cas je vous redirige vers <a href="https://www.ruby-lang.org/en/downloads/">le site de ruby</a></li>
+  <li>Une fois l’installation de Ruby effectuée il vous faudra installer Bundler
+    <ul>
+      <li>
+        <pre><code class="language-code">  gem install bundler
+</code></pre>
+      </li>
+    </ul>
+  </li>
+  <li>Une fois Bundle installé il faut que vous installiez les différentes dépendances
+    <ul>
+      <li>
+        <pre><code class="language-code">  bundle install
+</code></pre>
+      </li>
+    </ul>
+  </li>
+  <li>Une fois les étapes précèdentes complétées, vous pouvez lancer le site en local avec la commande suivante :
+    <ul>
+      <li>
+        <pre><code class="language-code">  bundle exec jekyll serve
+</code></pre>
+      </li>
+    </ul>
+  </li>
+</ol>
 
         </section>
 

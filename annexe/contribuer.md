@@ -11,7 +11,7 @@
     - Vérifiez que vous avez la dernière version du code
     - Décrivez le problème de manière précise
 3. Attribuez-vous votre ticket, c'est important pour éviter de se faire marcher dessus, il suffit simplement d'un commentaire tel que "je prends"
-4. *Forkez* le dépôt
+4. *Forkez* le dépôt et installez [l'environnement](environnement.html)
 
 ### Comment contribuer à NoNameIdeas
 
