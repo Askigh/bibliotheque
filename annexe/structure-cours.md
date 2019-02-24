@@ -4,7 +4,7 @@
 
 Pour réaliser un cours structuré et cohérent il va falloir s'assurer de plusieurs choses :
 
-    - TiPrenez du recul, avez-vous assez d'expérience pour réaliser un cours complet et à jour ?
+    - Prenez du recul, avez-vous assez d'expérience pour réaliser un cours complet et à jour ?
     - Avez vous un bookmark avec différentes ressources complémentaires à votre sujet?
     - Avez vous un ami ayant des connaissances dans le domaine pouvant relire votre travail et corriger les éventuels malentendus ?
 
