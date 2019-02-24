@@ -33,3 +33,13 @@
     - Pour éviter les mauvaises interprétations il est préférable que le commit soit en français
     - Si vous fixez une issue vous pouvez la mentionner avec le format nomcommit_issue_x
 
+#### Savoir identifier le besoin
+
+1. Avant de penser à réaliser une PR vous avez quelques questions à vous poser :
+    - A quelle problématique je réponds ? Est-ce la création [d'un cours](structure-cours.html), est-ce une mise à jour? une correction? 
+
+2. Le seul point qui rassemble toutes les problématiques c'est la structure. En effet pour que votre PR soit lus il va falloir lui donner un sens et une continuité, s'assurer que votre mise à jour/changement s'accorde bien avec la structure déjà en place.
+
+Pour se faire rien d'extraordinaire, il faut vous mettre à la place du lecteur, relire, imaginer ce que ressent le lecteur durant la lecture de votre cours.
+
+Si tout ces points sont un minimum travaillé, il n'y a pas de raison que votre cours soit de mauvaise qualité
