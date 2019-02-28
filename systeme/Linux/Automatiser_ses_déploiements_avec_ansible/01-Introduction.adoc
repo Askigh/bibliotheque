@@ -9,6 +9,8 @@ Nous prendrons comme fil rouge à ce livre le déploiement d'une application web
  * Une distribution linux de votre choix
  * Un server distant sur lequel déployer votre application
 
+*Annexe : https://github.com/#[Mise en place des pré-requis à l'aide de LXD]*
+
 == Déroulement
 
 Dans un premier temps nous verrons comment installer notre environnement de travail
