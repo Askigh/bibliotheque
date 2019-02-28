@@ -2,4 +2,13 @@
 
 Ce livre a pour but de vous présenter le fonctionnement global de l'outils Ansible afin de vous aider à automatiser l'ensemble de vos déploiements.
 
-Nous prendrons comme exemple le déploiement d'une application web réalisée en Python disponible sur ce https://github.com[repository] 
+Nous prendrons comme fil rouge à ce livre le déploiement d'une application web réalisée en Python disponible sur ce https://github.com[repository].
+
+== Pré-requis
+
+ * Une distribution linux de votre choix
+ * Un server distant sur lequel déployer votre application
+
+== Déroulement
+
+Dans un premier temps nous verrons comment installer notre environnement de travail
