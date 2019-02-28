@@ -1,0 +1,5 @@
+= Introduction
+
+Ce livre a pour but de vous présenter le fonctionnement global de l'outils Ansible afin de vous aider à automatiser l'ensemble de vos déploiements.
+
+Nous prendrons comme exemple le déploiement d'une application web réalisée en Python disponible sur ce https://github.com[repository] 
